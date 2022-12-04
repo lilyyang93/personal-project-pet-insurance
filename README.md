@@ -1,6 +1,6 @@
 #April 2022 - created via Replit when first learning to code 
 
-The purpose of this simple function is to act as a tool in choosing a pet insurance plan. Because there are many pet insurance companies and each company often offers many different plans, I created this tool help me quickly calculate whether the plan was a good investment for different scenarios. note: this code does not take into consideration plan options that put a cap on coverage amount. 
+The purpose of this simple function is to act as a tool in choosing a pet insurance plan. Because there are many pet insurance companies and each company often offers many different plans, I created this tool to help me quickly calculate whether the plan was a good investment for different scenarios. note: this code does not take into consideration plan options that put a cap on coverage amount. 
 
 #Plan options:
 -monthly premium: the monthly cost the insurance company would bill be for being covered under the insurance plan 
